@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5i61LZySKTRwxroOmPlWXoZKpY9N32QMwBHBNkZVca94edlcqbin1Sdcp7MZRWygZgJ3ZW16kIoTT6raEUeKCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\onlyd\\source\\repos\\dockerHelloApp\\dockerHelloApp\\dockerHelloApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\onlyd\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
